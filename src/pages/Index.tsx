@@ -5,8 +5,8 @@ const Index = () => {
     { name: "Alejandro Piqueras", date: "13 de Febrer" },
     { name: "Matias Balzamo", date: "11 de Mayo" },
     { name: "Daniel Ulied", date: "19 de Mayo" },
-    { name: "Pau Enjuanes", date: "7 de Juliol" },
-    { name: "Marc Vergara", date: "12 de Octubre" },
+    { name: "Pau Enjuanes", date: "13 de Juliol" },
+    { name: "Marc Vergara", date: "04 de Octubre" },
   ];
 
   return (
